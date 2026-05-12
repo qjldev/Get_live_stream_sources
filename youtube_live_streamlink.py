@@ -9,7 +9,7 @@ CHANNELS = [
     },
     {
         "name": "甄嬛传",
-        "url": "https://www.youtube.com/watch?v=jZEVXDTpSlo"
+        "url": "https://www.youtube.com/watch?v=aZQG7ltunS0"
     },
     {
         "name": "后宫甄嬛传",
